@@ -94,3 +94,7 @@ Incremental and SCD (Slowly Changing Dimension) versions are included for simula
 
 - The pipeline is designed for Databricks and leverages Databricks-specific features (e.g., DLT, dbutils).
 - Adjust paths and parameters as needed for your Databricks workspace.
+
+## License
+
+This project is licensed under the MIT License — see the `LICENSE` file for details.
